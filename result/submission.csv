@@ -1,0 +1,201 @@
+id,question,prediction
+0,"Which of the following statements accurately describes the impact of Modified Newtonian Dynamics (MOND) on the observed ""missing baryonic mass"" discrepancy in galaxy clusters?",B A E
+1,Which of the following is an accurate definition of dynamic scaling in self-similar systems?,E C A
+2,Which of the following statements accurately describes the origin and significance of the triskeles symbol?,A B E
+3,What is the significance of regularization in terms of renormalization problems in physics?,C B E
+4,Which of the following statements accurately describes the relationship between the dimensions of a diffracting object and the angular spacing of features in the diffraction pattern?,B E C
+5,"Which of the following statements accurately depicts the relationship between Gauss's law, electric flux, electric field, and symmetry in electric fields?",D B E
+6,Which of the following statements accurately describes the dimension of an object in a CW complex?,D C B
+7,Which of the following statements accurately describes the blocking temperature of an antiferromagnetic layer in a spin valve?,A D C
+8,What is the term used in astrophysics to describe light-matter interactions resulting in energy shifts in the radiation field?,D A B
+9,What is the role of axioms in a formal theory?,D A B
+10,What did Fresnel predict and verify with regards to total internal reflections?,C A E
+11,What is the relationship between the Wigner function and the density matrix operator?,A E D
+12,What is one of the examples of the models proposed by cosmologists and theoretical physicists without the cosmological or Copernican principles that can be used to address specific issues in the Lambda-CDM model and distinguish between current models and other possible models?,D E C
+13,What is the Roche limit?,C D A
+14,What is Martin Heidegger's view on the relationship between time and human existence?,C D A
+15,"What is the ""ultraviolet catastrophe""?",C D E
+16,What is the most popular explanation for the shower-curtain effect?,B A D
+17,What is the butterfly effect?,C A B
+18,What is the 'reactive Leidenfrost effect' observed in non-volatile materials?,A E B
+19,What is reciprocal length or inverse length?,D B E
+20,Which of the following statements is true about the categorization of planetary systems according to their orbital dynamics?,E C B
+21,What is the propagation constant in sinusoidal waves?,B E D
+22,What is the gravitomagnetic interaction?,B D E
+23,What did Newton's manuscripts of the 1660s show?,C D A
+24,What is the decay energy for the free neutron decay process?,E A C
+25,What is Hesse's principle of transfer in geometry?,C B E
+26,What is the relationship between the Cauchy momentum equation and the Navier-Stokes equation?,E A D
+27,What is X-ray pulsar-based navigation (XNAV)?,D A E
+28,What is the evidence for the existence of a supermassive black hole at the center of the Milky Way galaxy?,D E A
+29,What is the function of the fibrous cardiac skeleton?,B A D
+30,What is the Carnot engine?,A C D
+31,Which mathematical function is commonly used to characterize linear time-invariant systems?,A B C
+32,What is the second law of thermodynamics?,B D A
+33,"What are amorphous ferromagnetic metallic alloys, and what are their advantages?",E D B
+34,What is the Penrose process?,E C A
+35,What was the aim of the Gravity Probe B (GP-B) mission?,D B E
+36,What was Pierre de Fermat's solution to the problem of refraction?,B D A
+37,What is the reason behind the adoption of a logarithmic scale of 5√100 ≈ 2.512 between magnitudes in astronomy?,D E A
+38,What is the spin quantum number?,E C B
+39,What is the synapstor or synapse transistor?,A D C
+40,What is spontaneous symmetry breaking?,E C D
+41,What is the proper distance for a redshift of 8.2?,E C D
+42,Who was the first to determine the velocity of a star moving away from the Earth using the Doppler effect?,E D C
+43,What is the information loss paradox in black holes?,D E A
+44,What is the Kutta condition?,E B C
+45,What is classical mechanics?,C E D
+46,Who shared the other half of the Nobel Prize with Yoichiro Nambu for discovering the origin of the explicit breaking of CP symmetry in the weak interactions?,D A E
+47,What are some models that attempt to account for all observations without invoking supplemental non-baryonic matter?,D B C
+48,What is the purpose of the proximity-focusing design in a RICH detector?,C D A
+49,What is a light-year?,D B A
+50,What is the main advantage of ferroelectric memristors?,C A B
+51,What is the term used to describe the conduction that occurs in non-crystalline semiconductors by charges quantum tunnelling from one localised site to another?,B E A
+52,What is resistivity?,E B C
+53,What did Newton adopt after his correspondence with Hooke in 1679-1680?,E A C
+54,What is the metallicity of Kapteyn's star estimated to be?,C A E
+55,What is the SI base unit of time and how is it defined?,C A B
+56,What is a planetary system?,A C D
+57,What is the result of the collapse of a cavitation bubble?,E A C
+58,Who was Giordano Bruno?,B A C
+59,What are the Navier-Stokes equations?,C B E
+60,What is the revised view of the atmosphere's nature based on the time-varying multistability that is associated with the modulation of large-scale processes and aggregated feedback of small-scale processes?,B A E
+61,What is the reason that it is nearly impossible to see light emitted at the Lyman-alpha transition wavelength from a star farther than a few hundred light years from Earth?,C A D
+62,What is a Schwarzschild black hole?,E C D
+63,What is the definition of Atomristor?,A E D
+64,Who published the first theory that was able to encompass previously separate field theories to provide a unifying theory of electromagnetism?,A E B
+65,What is the relevant type of coherence for the Young's double-slit interferometer?,E D B
+66,What is the Peierls bracket in canonical quantization?,D E C
+67,What is the isophotal diameter used for in measuring a galaxy's size?,D B C
+68,What is the Maxwell's Demon thought experiment?,C D A
+69,What is the application of Memristor?,B A E
+70,What is the effect generated by a spinning superconductor?,D B C
+71,What is the main focus of cryogenic and noble liquid detectors in dark matter experiments?,C D B
+72,What is a pycnometer?,D E A
+73,"What is the estimated redshift of CEERS-93316, a candidate high-redshift galaxy observed by the James Webb Space Telescope?",A E B
+74,What is bollard pull primarily used for measuring?,D C A
+75,What is the piezoelectric strain coefficient for AT-cut quartz crystals?,D B E
+76,What is the difference between probability mass function (PMF) and probability density function (PDF)?,D E B
+77,"How do the Lunar Laser Ranging Experiment, radar astronomy, and the Deep Space Network determine distances to the Moon, planets, and spacecraft?",B C E
+78,What is the Ozma Problem?,C A B
+79,What is a Hilbert space in quantum mechanics?,A C E
+80,What is the significance of the speed of light in vacuum?,B C A
+81,What is the term used to describe the proportionality factor to the Stefan-Boltzmann law that is utilized in subsequent evaluations of the radiative behavior of grey bodies?,A E D
+82,What is the reason for the formation of stars exclusively within molecular clouds?,B E A
+83,What is the identity operation in symmetry groups?,E B A
+84,What is a regular polytope?,C B E
+85,What is the reason behind the largest externally observed electrical effects when two conductors are separated by the smallest distance without touching?,A D B
+86,What is the formalism that angular momentum is associated with in rotational invariance?,A D C
+87,"Which hand should be used to apply the right-hand rule when tightening or loosening nuts, screws, bolts, bottle caps, and jar lids?",E A C
+88,What is the Minkowski diagram used for?,A D E
+89,What are the two main interpretations for the disparity between the presence of matter and antimatter in the observable universe?,B E D
+90,What is the Ramsauer-Townsend effect?,E C B
+91,What is Minkowski space?,D C E
+92,What is the Optical Signal-to-Noise Ratio (OSNR)?,A D E
+93,What is the interpretation of supersymmetry in stochastic supersymmetric theory?,C A D
+94,"What is the purpose of expressing a map's scale as a ratio, such as 1:10,000?",E B A
+95,What is the main sequence in astronomy?,A C B
+96,"Who proposed the concept of ""maximal acceleration""?",D C A
+97,What is indirect photophoresis?,A C D
+98,What does Earnshaw's theorem state?,E B D
+99,What is radiosity in radiometry?,D E A
+100,What is a virtual particle?,C E A
+101,"Who proposed the principle of ""complexity from noise"" and when was it first introduced?",D E C
+102,What is the order parameter that breaks the electromagnetic gauge symmetry in superconductors?,A D E
+103,What is the reason for the sun appearing slightly yellowish when viewed from Earth?,C D B
+104,What is the Landau-Lifshitz-Gilbert equation used for in physics?,A E D
+105,What is spatial dispersion?,D A B
+106,What are the constituents of cold dark matter?,B C E
+107,What is the mechanism of FTIR?,D A C
+108,What is the origin of the permanent moment in paramagnetism?,C E A
+109,What is the reason that Newton's second law cannot be used to calculate the development of a physical system in quantum mechanics?,E D C
+110,"What is the butterfly effect, as defined by Lorenz in his book ""The Essence of Chaos""?",A D C
+111,What is the role of CYCLOIDEA genes in the evolution of bilateral symmetry?,D E C
+112,What is the required excess quark per billion quark-antiquark pairs in the early universe in order to provide all the observed matter in the universe?,B D A
+113,"What is the meaning of the term ""horror vacui""?",A B D
+114,What is the Droste effect?,A C B
+115,What is water hammer?,C D B
+116,What is the reason for the stochastic nature of all observed resistance-switching processes?,C D A
+117,What is the Einstein@Home project?,A B C
+118,What happens to an initially inhomogeneous physical system that is isolated by a thermodynamic operation?,A B C
+119,"What is the concept of simultaneity in Einstein's book, Relativity?",E C D
+120,What is the Josephson effect?,A B C
+121,What is the SI unit of the physical quantity m/Q?,A D C
+122,How many crystallographic point groups are there in three-dimensional space?,C A E
+123,What is the Liouville density?,D B A
+124,What are the four qualitative levels of crystallinity described by geologists?,A E D
+125,What is an order parameter?,C E D
+126,What is the significance of the discovery of the Crab pulsar?,D C A
+127,What is the De Haas-Van Alphen effect?,A E D
+128,"What is a ""coffee ring"" in physics?",E D C
+129,What is the significance of probability amplitudes in quantum mechanics?,C E D
+130,What is the relationship between the amplitude of a sound wave and its loudness?,B D E
+131,What are coherent turbulent structures?,E A B
+132,What is the main factor that determines the occurrence of each type of supernova?,E C D
+133,What is the Erlangen program?,B D A
+134,What is emissivity?,A B E
+135,Who was the first person to describe the pulmonary circulation system?,D B E
+136,What is the fate of a carbocation formed in crystalline naphthalene?,B C D
+137,What is the main focus of the Environmental Science Center at Qatar University?,A C D
+138,What is the purpose of obtaining surgical resection specimens?,A D B
+139,What is the function of mammary glands in mammals?,D A B
+140,What is the relationship between interstellar and cometary chemistry?,D E B
+141,What is the reason for recycling rare metals according to the United Nations?,D B C
+142,What is radiometric dating?,E D B
+143,What is the role of methane in Fischer-Tropsch processes?,A D C
+144,What is a phageome?,A D C
+145,What is organography?,D C A
+146,What is the definition of anatomy?,A E B
+147,What is a trophic level in an ecological pyramid?,A B E
+148,What is a crossover experiment?,E D B
+149,What is the role of IL-10 in the formation of Tr1 cells and tolerogenic DCs?,A C B
+150,"What is the reason behind the designation of Class L dwarfs, and what is their color and composition?",C A D
+151,What was Isaac Newton's explanation for rectilinear propagation of light?,A B C
+152,What is the relationship between chemical potential and quarks/antiquarks?,E A D
+153,What is the American Petroleum Institute (API) gravity?,D E B
+154,What are the two main factors that cause resistance in a metal?,D E A
+155,What is the significance of the redshift-distance relationship in determining the expansion history of the universe?,C B A
+156,What is the Evans balance?,E D B
+157,What is the definition of dimension in mathematics?,E D B
+158,What is accelerator-based light-ion fusion?,B C E
+159,What is the interstellar medium (ISM)?,D B A
+160,What is the significance of the change in slope of the pinched hysteresis curves in ReRAM and other forms of two-terminal resistance memory?,E D A
+161,What is geometric quantization in mathematical physics?,B E C
+162,What is the definition of an improper rotation?,C B A
+163,"What is power density in the context of energy systems, and how does it differ between renewable and non-renewable energy sources?",B C A
+164,What is Modified Newtonian Dynamics (MOND)?,D B C
+165,What is linear frame dragging?,E A B
+166,What is explicit symmetry breaking in theoretical physics?,D C A
+167,What is the role of the Higgs boson in the Standard Model?,B D A
+168,What is Lorentz symmetry or Lorentz invariance in relativistic physics?,D C B
+169,What is the significance of Baryon Acoustic Oscillations (BAOs) in the study of the universe?,A B D
+170,What can be inferred about the electronic entropy of insulators and metals based on their densities of states at the Fermi level?,E B A
+171,What are permutation-inversion groups?,B D E
+172,What is the relationship between dielectric loss and the transparency of a material?,D C E
+173,What is the purpose of measuring the Larmor precession fields at about 100 microtesla with highly sensitive superconducting quantum interference devices (SQUIDs) in ultra-low field MRI?,E D C
+174,What is the difference between illuminance and luminance?,E C D
+175,What is a magnetic monopole in particle physics?,C E D
+176,What is the difference between redshift due to the expansion of the universe and Doppler redshift?,C A E
+177,What is the relationship between Coordinated Universal Time (UTC) and Universal Time (UT1)?,A E D
+178,What is the reason for heating metals to a temperature just above the upper critical temperature?,B A C
+179,What is the cause of the observed change in the periods of moons orbiting a distant planet when measured from Earth?,A C D
+180,What is the origin of the radio emission observed from supernova remnants?,E A B
+181,What is the relationship between the Hamiltonians and eigenstates in supersymmetric quantum mechanics?,D B E
+182,What is the proposed name for the field that is responsible for cosmic inflation and the metric expansion of space?,E B C
+183,Which of the following statements accurately describes the characteristics of gravitational waves?,A B E
+184,What is the difference between the coevolution of myrmecophytes and the mutualistic symbiosis of mycorrhiza?,A C E
+185,What is the Kelvin-Helmholtz instability and how does it affect Earth's magnetosphere?,A E C
+186,What is the significance of the high degree of fatty-acyl disorder in the thylakoid membranes of plants?,B C A
+187,What is the explanation for the effective supersymmetry in quark-diquark models?,D E A
+188,What is the relationship between the complete electromagnetic Hamiltonian of a molecule and the parity operation?,E B C
+189,What is the difference between active and passive transport in cells?,A B D
+190,What is the Heisenberg uncertainty principle and how does it relate to angular momentum in quantum mechanics?,D A B
+191,What is the difference between natural convection and forced convection?,D A C
+192,What is magnetic susceptibility?,A B E
+193,"What is a transient condensation cloud, also known as a Wilson cloud?",C B A
+194,What is a uniform tiling in the hyperbolic plane?,C A D
+195,What is the relation between the three moment theorem and the bending moments at three successive supports of a continuous beam?,E A C
+196,"What is the throttling process, and why is it important?",D A B
+197,What happens to excess base metal as a solution cools from the upper transformation temperature towards an insoluble state?,D B A
+198,"What is the relationship between mass, force, and acceleration, according to Sir Isaac Newton's laws of motion?",D E B
+199,What did Arthur Eddington discover about two of Einstein's types of gravitational waves?,A B E
